@@ -12,7 +12,8 @@ namespace PassParam
      * passing parameter mechnaism:
      * 
      * What is parameter:
-     * Whenever we are passing some value for a method for its functionality
+     * Whenever we are passing some value for a method for its 
+     * functionality
      * from outside we will gor for parameters.
      * 
      * Types of parameters:
